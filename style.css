@@ -1,0 +1,134 @@
+
+.navbar li a{
+   
+    font-family: 'Courier New', Courier, monospace;
+    display: inline;
+    font-size: 22px;
+}
+
+.navbar li{
+    display: inline;
+    font-style: italic;
+    font-size: 30px;
+    margin: 30px;
+    border-radius: 15px;
+    background-color: rgb(83, 247, 7);
+    padding: 5px;
+}
+.navbar li :hover{
+    color: black;
+    background-color: rgb(161, 12, 247);
+}
+.navbar li :active{
+    background-color: #00cad1;
+}
+
+body{
+    background-image: url(p3.jpg);
+    background-color: rgb(11, 224, 240);
+    color : red;
+
+}
+
+h1{
+    font-style: italic;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(6, 177, 245);
+    background-color: rgb(23, 73, 8);
+    padding-bottom: 12px;
+    border-radius: 60px;
+
+    
+}
+h2{
+    text-align: center;
+    color: rgb(9, 243, 20);
+    background-color:rgb(3, 39, 14) ;
+    border-radius: 10px;
+    padding: 10px;
+}
+p{
+    font-size: 18px;
+    color: hsl(123, 69%, 11%);
+}
+
+.homeimages{
+    background-color: hsl(88, 100%, 45%);
+    border-radius: 10px;
+}
+img{
+    border-block-color: darkgreen;
+    margin-inline-end: 0px;
+    scroll-margin: 500px;
+    scroll-behavior: auto;
+    scrollbar-arrow-color: blueviolet;
+    
+
+}
+img :hover{
+
+    width: 500px; height: 500px;
+}
+.p4{
+   color: black;
+   font-size: 20px;
+   text-align: left;
+   
+}
+
+ h1{
+    font-size: 60px;
+    color: rgb(28, 202, 65);
+    text-align: center;
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+  }
+  
+  @-webkit-keyframes glow {
+    from {
+      text-shadow: 0 0 10px #e90707, 0 0 20px rgb(109, 155, 241), 0 0 30px #b30e81, 0 0 40px hsl(88, 100%, 45%), 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    }
+    to {
+      text-shadow: 0 0 skyblue, 0 0 30px hsl(0, 89%, 45%), 0 0 40px #0ff007, 0 0 50px #11e6b0, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+    }
+  }
+  ul.navbar li{
+      background-color: lawngreen;
+      border-radius: 7px;
+      
+  }
+  .p5{
+      color: black;
+      font-size: 20px;
+      text-align: right;
+     }
+  .pp4{
+ 
+  margin-left: 10px;
+ }
+  
+.pp4 tr td{
+ 
+    color: black;
+      font-size: 20px;
+      text-align: center
+ } 
+    .footer ul{
+   
+        font-size: 20px;
+        font-style: italic;
+        color: cyan;
+        float: center;
+        border-radius: 40px;
+        background-image: url(rrr08.jpg); height : 300px;
+
+    }
+    #pc{
+        text-align: center;
+        font-size: 15px;
+        color: #0f0f0f;
+
+    }
+    
