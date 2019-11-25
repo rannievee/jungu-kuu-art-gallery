@@ -26,7 +26,7 @@
 body{
     background-image: url(p3.jpg);
     background-color: rgb(11, 224, 240);
-    color : red;
+    color: red;
 
 }
 
@@ -131,4 +131,6 @@ img :hover{
         color: #0f0f0f;
 
     }
-    
+    .socialmedia {
+        background-color: rgb(83, 247, 7);
+    }
